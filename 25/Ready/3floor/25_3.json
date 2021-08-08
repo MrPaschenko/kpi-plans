@@ -1,0 +1,146 @@
+{
+	"success": 1,
+	"buildingID": 225,
+	"buildingName": "25_3",
+	"floorMaps": [
+		{
+			"floorMapID": 2253,
+			"floorNumber": 3,
+			"floorImage": "25_3",
+			"interactiveObjects": [
+				{
+					"interactiveObjectID": 22530,
+					"interactiveObjectType": 6,
+					"interactiveObjectName": "Платіжний автомат",
+					"description": "",
+					"x": 4,
+					"y": 1,
+					"width": 4,
+					"height": 2,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22531,
+					"interactiveObjectType": 13,
+					"interactiveObjectName": "Undefined",
+					"description": "",
+					"x": 0,
+					"y": 7,
+					"width": 3,
+					"height": 2,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22532,
+					"interactiveObjectType": 2,
+					"interactiveObjectName": "16",
+					"description": "",
+					"x": 4,
+					"y": 7,
+					"width": 4,
+					"height": 2,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22533,
+					"interactiveObjectType": 2,
+					"interactiveObjectName": "17",
+					"description": "",
+					"x": 4,
+					"y": 9,
+					"width": 4,
+					"height": 4,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22534,
+					"interactiveObjectType": 2,
+					"interactiveObjectName": "18",
+					"description": "",
+					"x": 4,
+					"y": 13,
+					"width": 4,
+					"height": 5,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22535,
+					"interactiveObjectType": 2,
+					"interactiveObjectName": "13",
+					"description": "",
+					"x": 0,
+					"y": 0,
+					"width": 3,
+					"height": 2,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22536,
+					"interactiveObjectType": 2,
+					"interactiveObjectName": "12",
+					"description": "",
+					"x": 0,
+					"y": 2,
+					"width": 3,
+					"height": 3,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22537,
+					"interactiveObjectType": 3,
+					"interactiveObjectName": "К-РАОВПК",
+					"description": "",
+					"x": 0,
+					"y": 5,
+					"width": 3,
+					"height": 2,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22538,
+					"interactiveObjectType": 3,
+					"interactiveObjectName": "КАБ.ЗАВ.КАФ.",
+					"description": "",
+					"x": 0,
+					"y": 9,
+					"width": 3,
+					"height": 2,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22539,
+					"interactiveObjectType": 2,
+					"interactiveObjectName": "19",
+					"description": "",
+					"x": 0,
+					"y": 15,
+					"width": 4,
+					"height": 3,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 225310,
+					"interactiveObjectType": 3,
+					"interactiveObjectName": "ВИКЛАДАЦЬКАК-РИ ОВПК",
+					"description": "",
+					"x": 4,
+					"y": 3,
+					"width": 4,
+					"height": 4,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 225311,
+					"interactiveObjectType": 2,
+					"interactiveObjectName": "20",
+					"description": "",
+					"x": 0,
+					"y": 11,
+					"width": 3,
+					"height": 4,
+					"amenities": [ ]
+				}
+			]
+		}
+	]
+}

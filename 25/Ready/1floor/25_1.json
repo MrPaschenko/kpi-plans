@@ -1,0 +1,124 @@
+{
+	"success": 1,
+	"buildingID": 225,
+	"buildingName": "25_1",
+	"floorMaps": [
+		{
+			"floorMapID": 2251,
+			"floorNumber": 1,
+			"floorImage": "25_1",
+			"interactiveObjects": [
+				{
+					"interactiveObjectID": 22510,
+					"interactiveObjectType": 18,
+					"interactiveObjectName": "Undefined",
+					"description": "",
+					"x": 0,
+					"y": 9,
+					"width": 1,
+					"height": 1,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22511,
+					"interactiveObjectType": 6,
+					"interactiveObjectName": "Платіжний автомат",
+					"description": "",
+					"x": 5,
+					"y": 2,
+					"width": 0,
+					"height": 0,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22512,
+					"interactiveObjectType": 6,
+					"interactiveObjectName": "Платіжний автомат",
+					"description": "",
+					"x": 7,
+					"y": 18,
+					"width": 1,
+					"height": 1,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22513,
+					"interactiveObjectType": 13,
+					"interactiveObjectName": "Undefined",
+					"description": "",
+					"x": 2,
+					"y": 8,
+					"width": 2,
+					"height": 2,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22514,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "30а",
+					"description": "",
+					"x": 6,
+					"y": 2,
+					"width": 4,
+					"height": 4,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22515,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "3б",
+					"description": "",
+					"x": 7,
+					"y": 8,
+					"width": 3,
+					"height": 2,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22516,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "3а",
+					"description": "",
+					"x": 7,
+					"y": 10,
+					"width": 3,
+					"height": 3,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22517,
+					"interactiveObjectType": 17,
+					"interactiveObjectName": "1ВИСТАВКОВАЗАЛА",
+					"description": "",
+					"x": 1,
+					"y": 10,
+					"width": 5,
+					"height": 10,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22518,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "3а",
+					"description": "",
+					"x": 6,
+					"y": 12,
+					"width": 4,
+					"height": 5,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22519,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "30МАЙСТЕРНЯ ЛІТОГРАФІЇ",
+					"description": "",
+					"x": 1,
+					"y": 2,
+					"width": 4,
+					"height": 4,
+					"amenities": [ ]
+				}
+			]
+		}
+	]
+}

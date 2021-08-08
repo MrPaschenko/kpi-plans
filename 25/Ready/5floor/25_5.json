@@ -1,0 +1,91 @@
+{
+	"success": 1,
+	"buildingID": 225,
+	"buildingName": "25_5",
+	"floorMaps": [
+		{
+			"floorMapID": 2255,
+			"floorNumber": 5,
+			"floorImage": "25_5",
+			"interactiveObjects": [
+				{
+					"interactiveObjectID": 22550,
+					"interactiveObjectType": 2,
+					"interactiveObjectName": "52",
+					"description": "",
+					"x": 6,
+					"y": 10,
+					"width": 3,
+					"height": 6,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22551,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "29",
+					"description": "",
+					"x": 6,
+					"y": 16,
+					"width": 3,
+					"height": 2,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22552,
+					"interactiveObjectType": 13,
+					"interactiveObjectName": "Undefined",
+					"description": "",
+					"x": 9,
+					"y": 16,
+					"width": 1,
+					"height": 4,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22553,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "ГОРИЩЕ",
+					"description": "",
+					"x": 0,
+					"y": 10,
+					"width": 5,
+					"height": 8,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22554,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "28",
+					"description": "",
+					"x": 0,
+					"y": 18,
+					"width": 5,
+					"height": 2,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22555,
+					"interactiveObjectType": 2,
+					"interactiveObjectName": "51",
+					"description": "",
+					"x": 5,
+					"y": 4,
+					"width": 3,
+					"height": 6,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22556,
+					"interactiveObjectType": 2,
+					"interactiveObjectName": "53",
+					"description": "",
+					"x": 0,
+					"y": 1,
+					"width": 5,
+					"height": 7,
+					"amenities": [ ]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,256 @@
+{
+	"success": 1,
+	"buildingID": 211,
+	"buildingName": "11_1",
+	"floorMaps": [
+		{
+			"floorMapID": 2111,
+			"floorNumber": 1,
+			"floorImage": "11_1",
+			"interactiveObjects": [
+				{
+					"interactiveObjectID": 21110,
+					"interactiveObjectType": 25,
+					"interactiveObjectName": "Вихід",
+					"description": "",
+					"x": 62,
+					"y": 735,
+					"width": 42,
+					"height": 92,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 21111,
+					"interactiveObjectType": 25,
+					"interactiveObjectName": "Вихід",
+					"description": "",
+					"x": 266,
+					"y": 62,
+					"width": 65,
+					"height": 35,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 21112,
+					"interactiveObjectType": 24,
+					"interactiveObjectName": "Сходи",
+					"description": "",
+					"x": 403,
+					"y": 135,
+					"width": 61,
+					"height": 56,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 21113,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "Майстерня",
+					"description": "",
+					"x": 337,
+					"y": 198,
+					"width": 128,
+					"height": 172,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 21114,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "Майстерня",
+					"description": "",
+					"x": 337,
+					"y": 370,
+					"width": 127,
+					"height": 238,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 21115,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "11-111",
+					"description": "",
+					"x": 337,
+					"y": 608,
+					"width": 128,
+					"height": 56,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 21116,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "11-109",
+					"description": "",
+					"x": 338,
+					"y": 664,
+					"width": 127,
+					"height": 88,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 21117,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "11-105",
+					"description": "",
+					"x": 338,
+					"y": 810,
+					"width": 126,
+					"height": 323,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 21118,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "11-103",
+					"description": "",
+					"x": 337,
+					"y": 1133,
+					"width": 127,
+					"height": 59,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 21119,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "11-101",
+					"description": "",
+					"x": 337,
+					"y": 1192,
+					"width": 128,
+					"height": 117,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211110,
+					"interactiveObjectType": 23,
+					"interactiveObjectName": "Туалет",
+					"description": "",
+					"x": 357,
+					"y": 1309,
+					"width": 108,
+					"height": 56,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211111,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "Вахта",
+					"description": "",
+					"x": 357,
+					"y": 1399,
+					"width": 46,
+					"height": 28,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211112,
+					"interactiveObjectType": 24,
+					"interactiveObjectName": "Сходи",
+					"description": "",
+					"x": 403,
+					"y": 1371,
+					"width": 62,
+					"height": 56,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211113,
+					"interactiveObjectType": 25,
+					"interactiveObjectName": "Вихід",
+					"description": "",
+					"x": 265,
+					"y": 1466,
+					"width": 65,
+					"height": 33,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211114,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "Підсобка",
+					"description": "",
+					"x": 136,
+					"y": 1309,
+					"width": 126,
+					"height": 118,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211115,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "11-102",
+					"description": "",
+					"x": 135,
+					"y": 1055,
+					"width": 127,
+					"height": 254,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211116,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "11-104",
+					"description": "",
+					"x": 135,
+					"y": 957,
+					"width": 127,
+					"height": 98,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211117,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "11-106",
+					"description": "",
+					"x": 135,
+					"y": 840,
+					"width": 127,
+					"height": 117,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211118,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "11-108",
+					"description": "",
+					"x": 136,
+					"y": 664,
+					"width": 126,
+					"height": 59,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211119,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "Майстерня",
+					"description": "",
+					"x": 136,
+					"y": 429,
+					"width": 126,
+					"height": 235,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211120,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "Майстерня",
+					"description": "",
+					"x": 135,
+					"y": 197,
+					"width": 127,
+					"height": 231,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211121,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "Підсобка",
+					"description": "",
+					"x": 135,
+					"y": 135,
+					"width": 127,
+					"height": 62,
+					"amenities": [ ]
+				}
+			]
+		}
+	]
+}

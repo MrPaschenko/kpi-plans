@@ -1,0 +1,102 @@
+{
+	"success": 1,
+	"buildingID": 225,
+	"buildingName": "25_4",
+	"floorMaps": [
+		{
+			"floorMapID": 2254,
+			"floorNumber": 4,
+			"floorImage": "25_4",
+			"interactiveObjects": [
+				{
+					"interactiveObjectID": 22540,
+					"interactiveObjectType": 13,
+					"interactiveObjectName": "Undefined",
+					"description": "",
+					"x": 0,
+					"y": 9,
+					"width": 3,
+					"height": 2,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22541,
+					"interactiveObjectType": 13,
+					"interactiveObjectName": "Undefined",
+					"description": "",
+					"x": 9,
+					"y": 18,
+					"width": 2,
+					"height": 4,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22542,
+					"interactiveObjectType": 3,
+					"interactiveObjectName": "ЗАВ.КАФ.ГРАФ.",
+					"description": "",
+					"x": 6,
+					"y": 9,
+					"width": 3,
+					"height": 2,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22543,
+					"interactiveObjectType": 3,
+					"interactiveObjectName": "ЗАВ.ЛАБ.ГРАФ.",
+					"description": "",
+					"x": 6,
+					"y": 11,
+					"width": 3,
+					"height": 3,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22544,
+					"interactiveObjectType": 3,
+					"interactiveObjectName": "КАФЕДРАГРАФІКИ",
+					"description": "",
+					"x": 6,
+					"y": 14,
+					"width": 3,
+					"height": 7,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22545,
+					"interactiveObjectType": 2,
+					"interactiveObjectName": "28",
+					"description": "",
+					"x": 0,
+					"y": 0,
+					"width": 5,
+					"height": 9,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22546,
+					"interactiveObjectType": 2,
+					"interactiveObjectName": "27",
+					"description": "",
+					"x": 0,
+					"y": 11,
+					"width": 5,
+					"height": 11,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 22547,
+					"interactiveObjectType": 2,
+					"interactiveObjectName": "23",
+					"description": "",
+					"x": 5,
+					"y": 1,
+					"width": 4,
+					"height": 8,
+					"amenities": [ ]
+				}
+			]
+		}
+	]
+}

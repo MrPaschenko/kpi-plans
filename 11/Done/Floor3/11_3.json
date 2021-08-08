@@ -1,0 +1,256 @@
+﻿{
+	"success": 1,
+	"buildingID": 211,
+	"buildingName": "11_3",
+	"floorMaps": [
+		{
+			"floorMapID": 2113,
+			"floorNumber": 3,
+			"floorImage": "11_3",
+			"interactiveObjects": [
+				{
+					"interactiveObjectID": 21130,
+					"interactiveObjectType": 21,
+					"interactiveObjectName": "11-317",
+					"description": "",
+					"x": 135,
+					"y": 135,
+					"width": 127,
+					"height": 235,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 21131,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "11-315",
+					"description": "",
+					"x": 135,
+					"y": 370,
+					"width": 128,
+					"height": 117,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 21132,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "11-313",
+					"description": "",
+					"x": 135,
+					"y": 487,
+					"width": 127,
+					"height": 118,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 21133,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "11-311",
+					"description": "",
+					"x": 136,
+					"y": 605,
+					"width": 126,
+					"height": 117,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 21134,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "11-310",
+					"description": "",
+					"x": 135,
+					"y": 722,
+					"width": 127,
+					"height": 118,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 21135,
+					"interactiveObjectType": 21,
+					"interactiveObjectName": "11-309",
+					"description": "",
+					"x": 135,
+					"y": 840,
+					"width": 127,
+					"height": 117,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 21136,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "11-307",
+					"description": "",
+					"x": 135,
+					"y": 957,
+					"width": 127,
+					"height": 117,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 21137,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "11-305",
+					"description": "",
+					"x": 135,
+					"y": 1074,
+					"width": 127,
+					"height": 75,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 21138,
+					"interactiveObjectType": 20,
+					"interactiveObjectName": "11-303",
+					"description": "",
+					"x": 136,
+					"y": 1150,
+					"width": 126,
+					"height": 159,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 21139,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "11-301",
+					"description": "",
+					"x": 136,
+					"y": 1309,
+					"width": 126,
+					"height": 118,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211310,
+					"interactiveObjectType": 24,
+					"interactiveObjectName": "Сходи",
+					"description": "",
+					"x": 396,
+					"y": 1371,
+					"width": 69,
+					"height": 56,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211311,
+					"interactiveObjectType": 23,
+					"interactiveObjectName": "Туалет",
+					"description": "",
+					"x": 357,
+					"y": 1309,
+					"width": 108,
+					"height": 56,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211312,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "11-302",
+					"description": "",
+					"x": 338,
+					"y": 1192,
+					"width": 127,
+					"height": 117,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211313,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "11-304",
+					"description": "",
+					"x": 338,
+					"y": 1074,
+					"width": 126,
+					"height": 118,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211314,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "11-306",
+					"description": "",
+					"x": 337,
+					"y": 957,
+					"width": 127,
+					"height": 117,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211315,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "11-308",
+					"description": "",
+					"x": 337,
+					"y": 811,
+					"width": 127,
+					"height": 146,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211316,
+					"interactiveObjectType": 20,
+					"interactiveObjectName": "11-312",
+					"description": "",
+					"x": 337,
+					"y": 605,
+					"width": 128,
+					"height": 146,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211317,
+					"interactiveObjectType": 21,
+					"interactiveObjectName": "11-314",
+					"description": "",
+					"x": 338,
+					"y": 487,
+					"width": 127,
+					"height": 118,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211318,
+					"interactiveObjectType": 21,
+					"interactiveObjectName": "11-316",
+					"description": "",
+					"x": 338,
+					"y": 370,
+					"width": 126,
+					"height": 118,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211319,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "11-318",
+					"description": "",
+					"x": 337,
+					"y": 252,
+					"width": 127,
+					"height": 118,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211320,
+					"interactiveObjectType": 23,
+					"interactiveObjectName": "Туалет",
+					"description": "",
+					"x": 357,
+					"y": 197,
+					"width": 107,
+					"height": 56,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211321,
+					"interactiveObjectType": 24,
+					"interactiveObjectName": "Сходи",
+					"description": "",
+					"x": 396,
+					"y": 136,
+					"width": 68,
+					"height": 54,
+					"amenities": [ ]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,403 @@
+{
+	"success": 1,
+	"buildingID": 6,
+	"buildingName": "17 корпус",
+	"floorMaps": [
+		{
+			"floorMapID": 9,
+			"floorNumber": 1,
+			"floorImage": "1st_floor_17",
+			"interactiveObjects": [
+				{
+					"interactiveObjectID": 17131,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "17-131",
+					"description": "",
+					"x": 57,
+					"y": 83,
+					"width": 74,
+					"height": 79,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17129,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "17-129",
+					"description": "",
+					"x": 57,
+					"y": 166,
+					"width": 74,
+					"height": 45,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17127,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "17-127",
+					"description": "",
+					"x": 57,
+					"y": 217,
+					"width": 74,
+					"height": 33,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17125,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "17-125 Вентиляційна",
+					"description": "",
+					"x": 57,
+					"y": 255,
+					"width": 74,
+					"height": 107,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17123,
+					"interactiveObjectType": 6,
+					"interactiveObjectName": "Туалет",
+					"description": "",
+					"x": 57,
+					"y": 367,
+					"width": 74,
+					"height": 115,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17121,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "17-121",
+					"description": "",
+					"x": 57,
+					"y": 532,
+					"width": 74,
+					"height": 75,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17119,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "17-119",
+					"description": "",
+					"x": 57,
+					"y": 613,
+					"width": 74,
+					"height": 128,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17117,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "17-117",
+					"description": "",
+					"x": 57,
+					"y": 747,
+					"width": 74,
+					"height": 138,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17115,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "17-115",
+					"description": "",
+					"x": 57,
+					"y": 890,
+					"width": 74,
+					"height": 93,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17113,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "17-113",
+					"description": "",
+					"x": 57,
+					"y": 988,
+					"width": 74,
+					"height": 180,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17111,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "17-111",
+					"description": "",
+					"x": 57,
+					"y": 1173,
+					"width": 74,
+					"height": 159,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17100,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "SpecialRoom",
+					"description": "",
+					"x": 57,
+					"y": 1337,
+					"width": 74,
+					"height": 68,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17109,
+					"interactiveObjectType": 2,
+					"interactiveObjectName": "17-109",
+					"description": "",
+					"x": 57,
+					"y": 1410,
+					"width": 74,
+					"height": 161,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17107,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "17-107",
+					"description": "",
+					"x": 57,
+					"y": 1630,
+					"width": 74,
+					"height": 102,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17102,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "17-102",
+					"description": "",
+					"x": 57,
+					"y": 1737,
+					"width": 74,
+					"height": 90,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17101,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "17-101",
+					"description": "",
+					"x": 57,
+					"y": 1833,
+					"width": 74,
+					"height": 183,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17126,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "17-126",
+					"description": "",
+					"x": 182,
+					"y": 83,
+					"width": 101,
+					"height": 139,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17124,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "17-124",
+					"description": "",
+					"x": 183,
+					"y": 228,
+					"width": 101,
+					"height": 86,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17122,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "17-122",
+					"description": "",
+					"x": 182,
+					"y": 319,
+					"width": 101,
+					"height": 200,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17120,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "17-120",
+					"description": "",
+					"x": 182,
+					"y": 525,
+					"width": 101,
+					"height": 111,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17118,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "17-118",
+					"description": "",
+					"x": 182,
+					"y": 641,
+					"width": 101,
+					"height": 127,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17116,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "17-116",
+					"description": "",
+					"x": 182,
+					"y": 774,
+					"width": 101,
+					"height": 122,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17114,
+					"interactiveObjectType": 2,
+					"interactiveObjectName": "17-114",
+					"description": "",
+					"x": 182,
+					"y": 900,
+					"width": 101,
+					"height": 103,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17112,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "17-112",
+					"description": "",
+					"x": 182,
+					"y": 1008,
+					"width": 101,
+					"height": 85,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17110,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "17-110",
+					"description": "",
+					"x": 182,
+					"y": 1090,
+					"width": 101,
+					"height": 87,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17108,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "17-108",
+					"description": "",
+					"x": 182,
+					"y": 1191,
+					"width": 101,
+					"height": 109,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17106,
+					"interactiveObjectType": 5,
+					"interactiveObjectName": "Буфет",
+					"description": "",
+					"x": 182,
+					"y": 1306,
+					"width": 101,
+					"height": 94,
+					"amenities": [
+						101, 102
+					]
+				},
+				{
+					"interactiveObjectID": 17104,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "Вахта",
+					"description": "",
+					"x": 237,
+					"y": 1491,
+					"width": 49,
+					"height": 58,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17103,
+					"interactiveObjectType": 10,
+					"interactiveObjectName": "Принт Центр",
+					"description": "",
+					"x": 179,
+					"y": 1562,
+					"width": 43,
+					"height": 96,
+					"amenities": [
+						101, 102, 204, 203
+					]
+				},
+				{
+					"interactiveObjectID": 17105,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "Гардероб",
+					"description": "",
+					"x": 224,
+					"y": 1564,
+					"width": 62,
+					"height": 93,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17128,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "Майстерня",
+					"description": "",
+					"x": 182,
+					"y": 1658,
+					"width": 101,
+					"height": 162,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17130,
+					"interactiveObjectType": 4,
+					"interactiveObjectName": "Майстерня",
+					"description": "",
+					"x": 182,
+					"y": 1824,
+					"width": 101,
+					"height": 192,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17150,
+					"interactiveObjectType": 18,
+					"interactiveObjectName": "Вихід",
+					"description": "",
+					"x": 337,
+					"y": 1485,
+					"width": 30,
+					"height": 30,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17151,
+					"interactiveObjectType": 13,
+					"interactiveObjectName": "Сходи",
+					"description": "",
+					"x": 59,
+					"y": 1564,
+					"width": 77,
+					"height": 52,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 17152,
+					"interactiveObjectType": 13,
+					"interactiveObjectName": "Сходи",
+					"description": "",
+					"x": 59,
+					"y": 487,
+					"width": 77,
+					"height": 52,
+					"amenities": [ ]
+				}
+			]
+		}
+	]
+}

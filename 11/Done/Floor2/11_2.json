@@ -1,0 +1,245 @@
+﻿{
+	"success": 1,
+	"buildingID": 211,
+	"buildingName": "11_2",
+	"floorMaps": [
+		{
+			"floorMapID": 2112,
+			"floorNumber": 2,
+			"floorImage": "11_2",
+			"interactiveObjects": [
+				{
+					"interactiveObjectID": 21120,
+					"interactiveObjectType": 24,
+					"interactiveObjectName": "Сходи",
+					"description": "",
+					"x": 396,
+					"y": 136,
+					"width": 68,
+					"height": 55,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 21121,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "11-217",
+					"description": "СР і Профюро студентів ФТІ",
+					"x": 337,
+					"y": 198,
+					"width": 127,
+					"height": 55,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 21122,
+					"interactiveObjectType": 20,
+					"interactiveObjectName": "11-215",
+					"description": "",
+					"x": 337,
+					"y": 253,
+					"width": 127,
+					"height": 235,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 21123,
+					"interactiveObjectType": 21,
+					"interactiveObjectName": "11-211",
+					"description": "",
+					"x": 337,
+					"y": 487,
+					"width": 127,
+					"height": 119,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 21124,
+					"interactiveObjectType": 21,
+					"interactiveObjectName": "11-209",
+					"description": "",
+					"x": 338,
+					"y": 605,
+					"width": 127,
+					"height": 147,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 21125,
+					"interactiveObjectType": 20,
+					"interactiveObjectName": "11-207",
+					"description": "",
+					"x": 337,
+					"y": 811,
+					"width": 128,
+					"height": 146,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 21126,
+					"interactiveObjectType": 20,
+					"interactiveObjectName": "11-205",
+					"description": "",
+					"x": 338,
+					"y": 957,
+					"width": 127,
+					"height": 235,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 21127,
+					"interactiveObjectType": 20,
+					"interactiveObjectName": "11-202",
+					"description": "",
+					"x": 338,
+					"y": 1192,
+					"width": 126,
+					"height": 118,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 21128,
+					"interactiveObjectType": 23,
+					"interactiveObjectName": "Туалет",
+					"description": "",
+					"x": 357,
+					"y": 1309,
+					"width": 108,
+					"height": 57,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 21129,
+					"interactiveObjectType": 24,
+					"interactiveObjectName": "Сходи",
+					"description": "",
+					"x": 396,
+					"y": 1371,
+					"width": 69,
+					"height": 57,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211210,
+					"interactiveObjectType": 20,
+					"interactiveObjectName": "11-201",
+					"description": "",
+					"x": 135,
+					"y": 1309,
+					"width": 127,
+					"height": 119,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211211,
+					"interactiveObjectType": 20,
+					"interactiveObjectName": "11-203",
+					"description": "",
+					"x": 136,
+					"y": 1192,
+					"width": 126,
+					"height": 118,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211212,
+					"interactiveObjectType": 20,
+					"interactiveObjectName": "11-204",
+					"description": "",
+					"x": 136,
+					"y": 1075,
+					"width": 126,
+					"height": 117,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211213,
+					"interactiveObjectType": 20,
+					"interactiveObjectName": "11-206",
+					"description": "",
+					"x": 136,
+					"y": 958,
+					"width": 126,
+					"height": 116,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211214,
+					"interactiveObjectType": 21,
+					"interactiveObjectName": "11-208",
+					"description": "",
+					"x": 136,
+					"y": 840,
+					"width": 126,
+					"height": 117,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211215,
+					"interactiveObjectType": 20,
+					"interactiveObjectName": "11-210",
+					"description": "",
+					"x": 136,
+					"y": 706,
+					"width": 126,
+					"height": 134,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211216,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "11-210А",
+					"description": "",
+					"x": 135,
+					"y": 546,
+					"width": 127,
+					"height": 161,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211217,
+					"interactiveObjectType": 20,
+					"interactiveObjectName": "11-212",
+					"description": "",
+					"x": 136,
+					"y": 488,
+					"width": 126,
+					"height": 59,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211218,
+					"interactiveObjectType": 21,
+					"interactiveObjectName": "11-213",
+					"description": "",
+					"x": 135,
+					"y": 371,
+					"width": 127,
+					"height": 117,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211219,
+					"interactiveObjectType": 20,
+					"interactiveObjectName": "11-214",
+					"description": "",
+					"x": 136,
+					"y": 198,
+					"width": 126,
+					"height": 172,
+					"amenities": [ ]
+				},
+				{
+					"interactiveObjectID": 211220,
+					"interactiveObjectType": 22,
+					"interactiveObjectName": "Бібліотека",
+					"description": "",
+					"x": 135,
+					"y": 135,
+					"width": 127,
+					"height": 62,
+					"amenities": [ ]
+				}
+			]
+		}
+	]
+}

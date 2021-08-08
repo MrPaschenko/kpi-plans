@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:ev="http://www.w3.org/2001/xml-events"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="936px" height="900px"
+	 viewBox="0 0 936 900" enable-background="new 0 0 936 900" xml:space="preserve">
+<title>/Volumes/Macintosh HD/Developer/KPImaps/Maps/05/SweetHome3d_1-2.sh3d</title>
+<desc>
+	Creator: FreeHEP Graphics2D Driver Producer: com.eteks.sweethome3d.swing.PlanComponent$SVGSupport$1 Revision: 12753  Source: alexeybodnya Date: Saturday, October 25, 2014 9:16:29 PM EEST
+	</desc>
+<g>
+	<g transform="matrix(1, 0, 0, 1, 161.25, 23.190778732299805)">
+		<g>
+			<path fill="#5EA647" d="M713.575,659.854H554.18v188.585h159.395V659.854z"/>
+		</g>
+	</g>
+	<g transform="matrix(1, 0, 0, 1, 161.25, 23.190778732299805)">
+		<g>
+			<path fill="none" stroke="#434343" stroke-width="5" stroke-linecap="square" stroke-miterlimit="10" d="M713.575,659.854
+				H554.18v188.585h159.395V659.854z"/>
+		</g>
+	</g>
+	<g transform="matrix(1, 0, 0, 1, 161.25, 23.190778732299805)">
+		<g>
+			<path fill="#5EA647" d="M408.16,181.559v429.26h328.02v-429.26H408.16z"/>
+		</g>
+	</g>
+	<g transform="matrix(1, 0, 0, 1, 161.25, 23.190778732299805)">
+		<g>
+			<path fill="none" stroke="#434343" stroke-width="5" stroke-linecap="square" stroke-miterlimit="10" d="M408.16,181.559
+				v429.26h328.02v-429.26H408.16z"/>
+		</g>
+	</g>
+	<g transform="matrix(1, 0, 0, 1, 161.25, 23.190778732299805)">
+		<g>
+			<defs>
+				<path id="SVGID_1_" d="M766.21,163.369l0,704.56H379.701v-704.56H766.21z M375.769,155.749v0.345h-3.687v719.455H773.83l0-719.8
+					H375.769z"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_2_)">
+				<g transform="matrix(1, 0, 0, 1, 372, 155)">
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix(1, 0, 0, 1, 161.25, 23.190778732299805)">
+		<g>
+			<path fill="none" stroke="#434343" stroke-width="5" stroke-linecap="square" stroke-miterlimit="10" d="M766.21,163.369
+				l0,704.56H379.701v-704.56H766.21z M375.769,155.749v0.345h-3.687v719.455H773.83l0-719.8H375.769z"/>
+		</g>
+	</g>
+	<g transform="matrix(1, 0, 0, 1, 161.25, 23.190778732299805)">
+		<g>
+			<path fill="none" stroke="#434343" stroke-width="5" stroke-linecap="square" stroke-miterlimit="10" d="M372.081,819.066
+				c-62.516,0-113.194-50.679-113.194-113.194h113.194V819.066z"/>
+		</g>
+	</g>
+	<g transform="matrix(1, 0, 0, 1, 161.25, 23.190778732299805)">
+		<g>
+			<path fill="#FFFFFF" d="M379.701,698.927v127h-7.62v-127H379.701z"/>
+		</g>
+	</g>
+	<g transform="matrix(1, 0, 0, 1, 161.25, 23.190778732299805)">
+		<g>
+			<path fill="none" stroke="#434343" stroke-width="5" stroke-linecap="square" stroke-miterlimit="10" d="M379.701,698.927v127h-7.62v-127H379.701z
+				"/>
+		</g>
+	</g>
+</g>
+</svg>
